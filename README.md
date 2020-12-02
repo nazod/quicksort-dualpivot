@@ -7,4 +7,3 @@ node nome-do-arquivo
 
 ```
 
-Para alterar a entrada do programa, o arquivo para alterar se chama stdin
